@@ -1,0 +1,77 @@
+[
+  {
+    "chat": {
+      "id": -5017271768,
+      "title": "Kyryll & replayer 2",
+      "type": "group",
+      "all_members_are_administrators": true,
+      "accepted_gift_types": {
+        "unlimited_gifts": false,
+        "limited_gifts": false,
+        "unique_gifts": false,
+        "premium_subscription": false
+      }
+    },
+    "from": {
+      "id": 480957555,
+      "is_bot": false,
+      "first_name": "Kyryll",
+      "last_name": "Shayer",
+      "username": "shayerdev",
+      "language_code": "uk"
+    },
+    "date": 1764349047,
+    "old_chat_member": {
+      "user": {
+        "id": 8363064368,
+        "is_bot": true,
+        "first_name": "replayer",
+        "username": "sd_replayer_bot"
+      },
+      "status": "left"
+    },
+    "new_chat_member": {
+      "user": {
+        "id": 8363064368,
+        "is_bot": true,
+        "first_name": "replayer",
+        "username": "sd_replayer_bot"
+      },
+      "status": "member"
+    }
+  },
+  {
+    "chat": {
+      "id": -1003342554493,
+      "title": "Kyryll & replayer 1",
+      "type": "supergroup"
+    },
+    "from": {
+      "id": 480957555,
+      "is_bot": false,
+      "first_name": "Kyryll",
+      "last_name": "Shayer",
+      "username": "shayerdev",
+      "language_code": "uk"
+    },
+    "date": 1764346001,
+    "old_chat_member": {
+      "user": {
+        "id": 8363064368,
+        "is_bot": true,
+        "first_name": "replayer",
+        "username": "sd_replayer_bot"
+      },
+      "status": "left"
+    },
+    "new_chat_member": {
+      "user": {
+        "id": 8363064368,
+        "is_bot": true,
+        "first_name": "replayer",
+        "username": "sd_replayer_bot"
+      },
+      "status": "member"
+    }
+  }
+]
